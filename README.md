@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image.png" alt="my banner">
+  <img src="./github-banner.png" alt="my banner">
 </p>
 <h2>
   Desenvolvedor Web Full-Stack PHP | Wordpress 💻
