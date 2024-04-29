@@ -9,7 +9,7 @@ Como desenvolvedor fullstack especializado em WordPress, tenho interesse no proc
 </br>
 
 ### 🤝 Conecte-se comigo:
-<a href="https://sandroscutt.com.br"><img align="left" src="https://sandroschutt.com.br/wp-content/uploads/2023/10/cropped-site-icon.png" alt="Sandro Schutt's portfolio logo." width="21px"/></a>
+<a href="https://sandroshcutt.com.br"><img align="left" src="https://sandroschutt.com.br/wp-content/uploads/2023/10/cropped-site-icon.png" alt="Sandro Schutt's portfolio logo." width="21px"/></a>
 <a href="https://www.linkedin.com/in/sandro-schutt/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedInLogo" width="21px"/></a><br>
 <br>
 
