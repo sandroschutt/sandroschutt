@@ -2,7 +2,7 @@
   <img src="./github-banner.png" alt="my banner">
 </p>
 <h2>
-  Desenvolvedor Fullstack PHP | Wordpress 💻
+  Desenvolvedor Wordpress Fullstack | PHP, JS, React 💻
 </h2> 
 </br>
 Como desenvolvedor fullstack especializado em WordPress, tenho interesse no processo de criação de websites criativos e funcionais. Gosto de enfrentar desafios técnicos e encontrar soluções para otimizar o desempenho dos sites que desenvolvo.
