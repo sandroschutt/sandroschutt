@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./github-banner.png" alt="my banner">
-</p>
 <h2>
   Desenvolvedor Wordpress Fullstack | PHP, JS, React 💻
 </h2> 
