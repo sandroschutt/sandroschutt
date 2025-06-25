@@ -9,7 +9,6 @@ Como desenvolvedor fullstack especializado em WordPress, tenho interesse no proc
 </br>
 
 ### 🤝 Conecte-se comigo:
-<a href="https://sandroshcutt.com.br"><img align="left" src="https://sandroschutt.com.br/wp-content/uploads/2023/10/cropped-site-icon.png" alt="Sandro Schutt's portfolio logo." width="21px"/></a>
 <a href="https://www.linkedin.com/in/sandro-schutt/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedInLogo" width="21px"/></a><br>
 <br>
 
@@ -18,10 +17,7 @@ Como desenvolvedor fullstack especializado em WordPress, tenho interesse no proc
 </br>
 
 ## 🔭 Trabalhando em:
-- Desenvolvedor Wordpress na [RBZ Digital](https://www.rbz.digital/)
-- Tema [Fullstack](https://github.com/sandroschutt/fullstack) para portfolio de desenvolvedores web
-- Sistema de auxílio informacional para coleta de REEE (TCC)
-- [Aplicativo web para gerenciamento de vagas de emprego](https://myops.sandroschutt.com.br)
+- Desenvolvedor Wordpress na [Hennessey Digital](https://hennessey.com/)
 - [MySQL Digestor](https://github.com/sandroschutt/mysql-digestor) - programama de CLI para fatiar e subir grandes BDs economizando memória
 - Contribuições com o repositório [Community Themes](https://github.com/WordPress/community-themes) da comunidade Open Source do WordPress
 - Minhas habilidades em PHP, Wordpress e ReactJs
